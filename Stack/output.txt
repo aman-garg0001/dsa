@@ -1,0 +1,5 @@
+10 pushed into stack
+20 pushed into stack
+30 pushed into stack
+30 Popped from stack
+2 is size of stack
